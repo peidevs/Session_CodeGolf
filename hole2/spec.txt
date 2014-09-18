@@ -1,0 +1,19 @@
+
+Examples of palindromic numbers:
+
+121
+6548456
+
+Input: N, a positive integer smaller than 10^15
+
+Output:
+
+0 if N is palindromic
+X if N is not, where |X| is smallest distance to a palindromic number
+
+Examples:
+
+Input	Output
+121        0
+1299931    -10
+126        5 (or -5)
