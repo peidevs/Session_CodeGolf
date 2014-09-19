@@ -6,3 +6,7 @@ We're gonna rock around the clock tonight.
 
 You may use the digit '1' but no other numbers in the code.
 
+See (spoiler alert):
+
+http://codegolf.stackexchange.com/questions/34663/rock-around-the-clock
+

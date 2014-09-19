@@ -17,3 +17,7 @@ Input	Output
 121        0
 1299931    -10
 126        5 (or -5)
+
+See (spoiler alert):
+
+http://codegolf.stackexchange.com/questions/36909/find-the-closest-palindromic-number
